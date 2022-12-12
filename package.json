@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "geoip-lite": "^1.4.1",
     "helmet": "^3.22.0",
     "public-ip": "^4.0.0"
